@@ -7,9 +7,9 @@ The overall summary of the schools did not change since we performed the data cl
 
 ## Changes to Thom High School
 
-  1) **the average math score** decreased from 83.41 to 83.35, meaning a 0.06 change. 
-  2) **the average reading score** increase from 83.84 to 83.89, meaning a 0.05 change.
-  3) **the percentage of passing math** decreased from 93.27% to 93.18%, meaning a 0.09% change. 
+  1) **The average math score** decreased from 83.41 to 83.35, meaning a 0.06 change. 
+  2) **The average reading score** increase from 83.84 to 83.89, meaning a 0.05 change.
+  3) **The percentage of passing math** decreased from 93.27% to 93.18%, meaning a 0.09% change. 
   4) **The average of passing reading** decreased from 97.30% to 97.01%, meaning a 0.29% change. 
   5) **The Overall Passing** decreased from 90.94% to 90.63%, all these changes represent an overall change of 0.31% 
   
