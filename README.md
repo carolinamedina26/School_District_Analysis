@@ -17,5 +17,4 @@ The overall summary of the schools did not change since we performed the data cl
 
 # Summary 
 
-These changes affect the Thomas High School results, mainly evidenced on the average passing reading with a decrease of 0.29%; The passing math percentage also got reduced by 0.09%, these two major changes affected the overall passing performance of the school, evidencing a decrease of 0.31%.  
-Although the percentage of student that pass reading reduced, the average score of reading increased by 0.05, which means the new total of students obtain a higher grade on average.
+These changes affect the Thomas High School results, mainly evidenced on the average passing reading with a decrease of 0.29%; The passing math percentage also got reduced by 0.09%, these two major changes affected the overall passing performance of the school, evidencing a decrease of 0.31%. Although the percentage of student that pass reading reduced, the average score of reading increased by 0.05, which means the new total of students obtain a higher grade on average.
